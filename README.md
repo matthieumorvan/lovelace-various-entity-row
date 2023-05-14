@@ -2,7 +2,7 @@
 
 Show multiple entity states, attributes and icons on entity rows in Home Assistant's Lovelace UI
 
-[![GH-release](https://img.shields.io/github/v/release/benct/lovelace-multiple-entity-row.svg?style=flat-square)](https://github.com/matthieumorvan/lovelace-various-entity-row/releases)
+[![GH-release](https://img.shields.io/github/v/release/matthieumorvan/lovelace-various-entity-row.svg?style=flat-square)](https://github.com/matthieumorvan/lovelace-various-entity-row/releases)
 [![GH-downloads](https://img.shields.io/github/downloads/matthieumorvan/lovelace-various-entity-row/total?style=flat-square)](https://github.com/matthieumorvan/lovelace-various-entity-row/releases)
 [![GH-last-commit](https://img.shields.io/github/last-commit/matthieumorvan/lovelace-various-entity-row.svg?style=flat-square)](https://github.com/matthieumorvan/lovelace-various-entity-row/commits/master)
 [![GH-code-size](https://img.shields.io/github/languages/code-size/matthieumorvan/lovelace-various-entity-row.svg?color=red&style=flat-square)](https://github.com/matthieumorvan/lovelace-various-entity-row)
